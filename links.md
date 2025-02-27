@@ -4,3 +4,5 @@
 - My brain 🧠
 - Wikipedia 📖
 - Octocat :octocat:
+- News Feed 🗞️
+- Aliens 👽
