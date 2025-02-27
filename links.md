@@ -6,4 +6,3 @@
 - Octocat :octocat:
 - News Feed 🗞️
 - Aliens 👽
-- Other
