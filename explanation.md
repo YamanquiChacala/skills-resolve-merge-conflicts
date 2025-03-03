@@ -1,3 +1,4 @@
 # Goal
 
-Our goal is to create a complex merge conflict.
+Our objective is to learn how to resolve complex mege conflics.
+
